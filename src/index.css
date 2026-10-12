@@ -1,0 +1,9 @@
+:root{
+  --backcolor: #f4f5f0;
+  --navcolor: #da3a2c;
+  --commoncolor: #ffffff;
+}
+body{
+  background-color: var(--backcolor);
+  margin: 0px auto;
+}

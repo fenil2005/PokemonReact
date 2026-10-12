@@ -1,0 +1,19 @@
+.nav-bar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: var(--navcolor);
+}
+.nav-title{
+    color: var(--commoncolor);
+    font-size: 20px;
+    font-weight: 600;
+}
+.btn-1{
+    color: var(--commoncolor);
+    background-color: #e16b5e;
+    border: none;
+    border-radius: 30px;
+    padding: 4px 13px;
+    font-size: 13px;
+}
